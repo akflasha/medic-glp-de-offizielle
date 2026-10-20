@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/order",
+      "destination": "https://bikiraibn.com/?a=3638&c=9670&s1=fbadsabhion",
+      "permanent": false
+    },
+    {
+      "source": "/order/",
+      "destination": "https://bikiraibn.com/?a=3638&c=9670&s1=fbadsabhion",
+      "permanent": false
+    }
+  ]
+}
